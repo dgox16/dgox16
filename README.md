@@ -22,6 +22,8 @@
 ### :man_technologist: About Me :
 I'm a Full Stack Developer from México.
 
+You can check my portfolio here: https://portfolio-alpha-three-66.vercel.app/
+
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgox16&theme=dark&background=000000)](https://git.io/streak-stats)
